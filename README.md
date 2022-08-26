@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on machine learning / computer vision (medical image processing)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiaoMiaoYoung&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiaoMiaoYoung&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MiaoMiaoYoung&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiaoMiaoYoung&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
